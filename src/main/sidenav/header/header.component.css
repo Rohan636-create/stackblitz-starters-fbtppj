@@ -6,6 +6,9 @@
   background-color: #f0f2f5;
   padding: 1rem;
 }
+.img {
+  width: 100%;
+}
 .menu {
   display: flex;
   flex-direction: row;
