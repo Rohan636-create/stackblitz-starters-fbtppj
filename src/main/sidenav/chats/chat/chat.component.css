@@ -16,7 +16,7 @@
   height: 4rem;
   padding: 0.2rem;
 }
-.details {
+.detail {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -62,4 +62,7 @@
   padding-right: 5px;
   color: white;
   font-weight: bold;
+}
+.avatar > img {
+  border-radius: 50%;
 }
