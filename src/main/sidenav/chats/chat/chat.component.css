@@ -16,3 +16,30 @@
   padding: 0.2rem;
   height: 4rem;
 }
+.details{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 85%;
+  height: 4rem;
+}
+.name{
+  height: 50%;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.8rem;
+}
+.p-name{
+  font-size: 1.1rem;
+}
+.p-line{
+  font-size: 0.8rem;
+  color: #1fa885;
+}
+.recent{
+  height: 50%;
+  width: 100%;
+}
