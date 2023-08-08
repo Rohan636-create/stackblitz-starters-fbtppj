@@ -5,6 +5,7 @@
   height: 3.5rem;
   background-color: #f0f2f5;
   padding: 1rem;
+  border-bottom: 1px solid #ccc;
 }
 .img {
   width: 100%;
