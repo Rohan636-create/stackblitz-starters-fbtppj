@@ -1,0 +1,8 @@
+.container{
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 43rem;
+    border-right: 2px solid gainsboro;
+  }
+}
