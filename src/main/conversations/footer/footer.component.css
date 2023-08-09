@@ -32,6 +32,7 @@
   background-color: white;
   color: #888;
   border-radius: 10px;
+  height: 3rem;
 }
 .message > input:focus {
   outline: none;
