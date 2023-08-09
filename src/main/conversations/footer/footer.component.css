@@ -5,4 +5,29 @@
   align-items: center;
   height: 4rem;
   background-color: #f0f2f5;
+  width: 100%;
+}
+.smily {
+  width: 3rem;
+  height: 3rem;
+  padding: 0.1rem;
+}
+.plus {
+  width: 3rem;
+  height: 3rem;
+  padding: 0.1rem;
+}
+.message {
+  width: 46rem;
+  height: 3rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 10px;
+  padding-left: 2rem;
+}
+.speaker {
+  height: 3rem;
+  width: 3rem;
+  padding: 0.1rem;
 }
