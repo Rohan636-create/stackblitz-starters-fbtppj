@@ -3,5 +3,5 @@
   flex-direction: column;
   height: 43rem;
   justify-content: flex-start;
-  border-right: 2px solid red;
+  background-color: red;
 }
