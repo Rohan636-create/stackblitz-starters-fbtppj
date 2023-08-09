@@ -7,7 +7,7 @@ import { SidenavComponent } from './sidenav/sidenav.component';
   selector: 'app-main',
   templateUrl: './main.component.html',
   styleUrls: ['./main.component.css'],
-  imports: [SidenavComponent,ConversationsComponent],
+  imports:[SidenavComponent,ConversationsComponent],
 })
 export class MainComponent implements OnInit {
 
