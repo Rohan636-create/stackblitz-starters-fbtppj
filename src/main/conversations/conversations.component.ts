@@ -7,7 +7,7 @@ import { HeaderComponent } from './header/header.component';
   standalone:true,
   selector: 'app-conversations',
   templateUrl: './conversations.component.html',
-  styleUrls: ['./conversations.component.css']
+  styleUrls: ['./conversations.component.css'],
   imports:[HeaderComponent,BodyComponent,FooterComponent],
 })
 export class ConversationsComponent implements OnInit {
