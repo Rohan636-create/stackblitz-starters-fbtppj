@@ -13,3 +13,11 @@
   height: 3.5rem;
   background-color: green;
 }
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 36rem;
+  width: 100%;
+  background-color: #eee;
+}
