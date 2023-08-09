@@ -4,5 +4,7 @@
   align-items: center;
   width: 100%;
   height: 36rem;
-  background-color: red;
+  /* background-color: red; */
+  background-image: url(https://i.pinimg.com/originals/05/5b/dc/055bdc52b9c5e6a1444b517cb5e17a9d.jpg);
+  background-repeat: no-repeat;
 }
