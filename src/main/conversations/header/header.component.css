@@ -9,3 +9,23 @@
   width: 100%;
   border-bottom: 1px solid #ccc;
 }
+.user {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.3rem;
+  background-color: red;
+  height: 3.5rem;
+}
+.avatar {
+  height: 3.5rem;
+  width: 3rem;
+  margin-right: 2rem;
+}
+.avatar > img {
+  border-radius: 50%;
+}
+.name {
+  font-size: 1.2rem;
+}
