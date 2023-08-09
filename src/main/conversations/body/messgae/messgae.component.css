@@ -1,8 +1,6 @@
 .container {
   display: flex;
   flex-direction: column;
-  overflow-x: hidden;
-  overflow-y: scroll;
 }
 .msgtext {
   font-size: 0.95rem;
