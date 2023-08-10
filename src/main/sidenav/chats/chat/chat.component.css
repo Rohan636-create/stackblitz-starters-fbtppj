@@ -66,3 +66,7 @@
 .avatar > img {
   border-radius: 50%;
 }
+.container:hover{
+  background-color: lightblue;
+  cursor: pointer;
+}
